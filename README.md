@@ -18,7 +18,7 @@
 
 # Галерея
 
-![Start screen](https://github.com/MarkLagodych/assets/blob/main/Ogurechiki/1.PNG?raw=true)
+![Start screen](https://github.com/MarkLagodych/assets/blob/main/Ogurechiki/4444.PNG?raw=true)
 
 ![With balls](https://github.com/MarkLagodych/assets/blob/main/Ogurechiki/2.PNG?raw=true)
 
