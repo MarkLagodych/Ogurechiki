@@ -23,3 +23,8 @@
 ![With balls](https://github.com/MarkLagodych/assets/blob/main/Ogurechiki/2.PNG?raw=true)
 
 ![With stones](https://github.com/MarkLagodych/assets/blob/main/Ogurechiki/3.PNG?raw=true)
+
+# Авторы
+
+Идея: Глеб Очеретяный
+Код: Марк Лагодич 
