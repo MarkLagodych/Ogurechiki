@@ -1,0 +1,10 @@
+# PyInstaller things
+main.spec
+dist
+build
+
+# Python thing
+__pycache__
+
+# Program's database
+/data/myfile.*
