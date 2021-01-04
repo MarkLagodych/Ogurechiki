@@ -232,7 +232,7 @@ def game():
                                 i.stone=False
                                 break
                 elif event.key == pg.K_p:
-                    paused = ~paused
+                    paused = not paused
                     pg.draw.rect(win, (43,173,206), (W-40, 20, 32, 32))
                     win.blit(playimage, (W-40, 20))
                         
