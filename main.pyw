@@ -328,7 +328,7 @@ while True:
     win.blit(text, (100,350))
     text=font.render('Когда надоест, нажмите Alt+F4', True, (255,255,255))
     win.blit(text, (100,400))
-    text=font.render('Исцеление/спрос камня тратит бонус', True, (255,255,255))
+    text=font.render('Исцеление/сброс камня тратит бонус', True, (255,255,255))
     win.blit(text, (100,450))
     
     text=font.render('Нажмите Пробел для новой игры.', True, (255,255,255))
